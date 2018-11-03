@@ -1,2 +1,0 @@
-# docker
-apache + CakePHP + mariadb
