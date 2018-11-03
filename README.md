@@ -1,4 +1,4 @@
 # docker
 
-## /cakepHP
+## /cakephp
 apache + CakePHP + mariadb
